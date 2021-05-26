@@ -9,7 +9,7 @@
   },
   "servers": [
     {
-      "url": "http://petstore.swagger.io/v1"
+      "url": "https://fhir.fyunwosw.static-test-account.isccloud.io"
     }
   ],
   "paths": {
